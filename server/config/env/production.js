@@ -4,7 +4,6 @@ module.exports = {
   	from: 'TramiteYa <notificaciones@tramiteya.go.cr>',
 	to: 'notificaciones@tramiteya.go.cr',
 	host: 'smtp.racsa.co.cr',
-	port: 5050,
 	portEmail : 25,
 	secure: false,
 	pool: true,
