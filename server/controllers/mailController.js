@@ -4,7 +4,7 @@ const vars = require('../config/env/development')
 const traspoterConfig = {
   maxConnections: vars.maxConnections,
   host: vars.host,
-  port: vars.port,
+  port: vars.portEmail,
   auth: {
     user: vars.user,
     pass: vars.password,
